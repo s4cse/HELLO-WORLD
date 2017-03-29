@@ -1,1 +1,2 @@
-printf "hai"
+printf "ha"
+printf" hello"
